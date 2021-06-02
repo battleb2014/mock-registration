@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/battleb2014/mock-registration/static/css/main.7a923cd4.chunk.css",
+    "main.js": "/battleb2014/mock-registration/static/js/main.acb01410.chunk.js",
+    "main.js.map": "/battleb2014/mock-registration/static/js/main.acb01410.chunk.js.map",
+    "runtime-main.js": "/battleb2014/mock-registration/static/js/runtime-main.ec4ea28c.js",
+    "runtime-main.js.map": "/battleb2014/mock-registration/static/js/runtime-main.ec4ea28c.js.map",
+    "static/js/2.489fb633.chunk.js": "/battleb2014/mock-registration/static/js/2.489fb633.chunk.js",
+    "static/js/2.489fb633.chunk.js.map": "/battleb2014/mock-registration/static/js/2.489fb633.chunk.js.map",
+    "static/js/3.69b8f936.chunk.js": "/battleb2014/mock-registration/static/js/3.69b8f936.chunk.js",
+    "static/js/3.69b8f936.chunk.js.map": "/battleb2014/mock-registration/static/js/3.69b8f936.chunk.js.map",
+    "index.html": "/battleb2014/mock-registration/index.html",
+    "static/css/main.7a923cd4.chunk.css.map": "/battleb2014/mock-registration/static/css/main.7a923cd4.chunk.css.map",
+    "static/js/2.489fb633.chunk.js.LICENSE.txt": "/battleb2014/mock-registration/static/js/2.489fb633.chunk.js.LICENSE.txt",
+    "static/media/angular.0a1a68b6.svg": "/battleb2014/mock-registration/static/media/angular.0a1a68b6.svg",
+    "static/media/build.1b9f3954.svg": "/battleb2014/mock-registration/static/media/build.1b9f3954.svg",
+    "static/media/express.a202e975.svg": "/battleb2014/mock-registration/static/media/express.a202e975.svg",
+    "static/media/js.43e744a2.svg": "/battleb2014/mock-registration/static/media/js.43e744a2.svg",
+    "static/media/node.10354602.svg": "/battleb2014/mock-registration/static/media/node.10354602.svg",
+    "static/media/App.css": "/battleb2014/mock-registration/static/media/valid.349cf143.svg",
+    "static/media/npm.415fcfa1.svg": "/battleb2014/mock-registration/static/media/npm.415fcfa1.svg",
+    "static/media/react.4ee8d000.svg": "/battleb2014/mock-registration/static/media/react.4ee8d000.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec4ea28c.js",
+    "static/js/2.489fb633.chunk.js",
+    "static/css/main.7a923cd4.chunk.css",
+    "static/js/main.acb01410.chunk.js"
+  ]
+}
